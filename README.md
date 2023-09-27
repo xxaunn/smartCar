@@ -17,7 +17,7 @@ Figure 3. The Smart Car’s configuration.
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
 
-Figure 4. Layout combination of the transparent windshield display
+Figure 4. Layout combination of the transparent windshield display.Include Header Container,Content Container,Footer Container.
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
 
